@@ -14,5 +14,5 @@ jobs:
         uses: maxam2017/productive-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: ${{ https://gist.github.com/BoubleJ/16e1a1acb28fc278ebc749e5ff3f07ca}}
+          GIST_ID: ${{ 16e1a1acb28fc278ebc749e5ff3f07ca }}
           TIMEZONE: ${{ Asia/Seoul }}
